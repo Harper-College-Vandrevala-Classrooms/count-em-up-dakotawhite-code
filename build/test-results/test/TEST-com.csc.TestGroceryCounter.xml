@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.TestGroceryCounter" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-09-16T01:22:11" hostname="Dakotas-Laptop.local" time="0.046">
+  <properties/>
+  <testcase name="testtenths()" classname="com.csc.TestGroceryCounter" time="0.024"/>
+  <testcase name="testclear()" classname="com.csc.TestGroceryCounter" time="0.001"/>
+  <testcase name="testmany()" classname="com.csc.TestGroceryCounter" time="0.001"/>
+  <testcase name="testones()" classname="com.csc.TestGroceryCounter" time="0.002"/>
+  <testcase name="testtens()" classname="com.csc.TestGroceryCounter" time="0.001"/>
+  <testcase name="testhundreths()" classname="com.csc.TestGroceryCounter" time="0.001"/>
+  <testcase name="testinitial()" classname="com.csc.TestGroceryCounter" time="0.001"/>
+  <testcase name="testoverflow()" classname="com.csc.TestGroceryCounter" time="0.002"/>
+  <testcase name="itWorks()" classname="com.csc.TestGroceryCounter" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
